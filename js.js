@@ -13,5 +13,3 @@ document.write ("FizzBuzz");
     else {document.write(number);
          document.write('<br>')} 
 }
-                 
-
